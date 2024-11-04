@@ -368,7 +368,7 @@ Examples:
 #### Endpoints
 * RPC: [https://celestia-rpc.stakeandrelax.net](https://celestia-rpc.stakeandrelax.net)
 * gRPC: [http://celestia-grpc.stakeandrelax.net:11690](http://celestia-grpc.stakeandrelax.net:11690)
-* API: [https://celestia-testnet-api.stakeandrelax.net](https://celestia-api.stakeandrelax.net)
+* API: [https://celestia-api.stakeandrelax.net](https://celestia-api.stakeandrelax.net)
 #### Relayer
 [High performance relayer - Dashboard by SmartStake](https://relayers.smartstake.io/relayer/BD90F7F27099E9E3)
 #### Testnet
