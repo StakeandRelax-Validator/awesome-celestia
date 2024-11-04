@@ -361,6 +361,29 @@ Examples:
 
 ---
 
+### Stake&Relax 🦥 Contribution
+#### Mainnet
+* Services(Snapshot,State-Sync,Endpoints,LivePeers): [https://services.blacknodes.net/Celestia](https://services.stakeandrelax.net/mainnet/celestia)
+* Relaxed Explorer (Ping-Pub based): [https://explorer.stakeandrelax.net/celestia](https://explorer.stakeandrelax.net/celestia)
+#### Endpoints
+* RPC: [https://celestia-rpc.stakeandrelax.net](https://celestia-rpc.stakeandrelax.net)
+* gRPC: [http://celestia-grpc.stakeandrelax.net:11690](http://celestia-grpc.stakeandrelax.net:11690)
+* API: [https://celestia-testnet-api.stakeandrelax.net](https://celestia-api.stakeandrelax.net)
+#### Relayer
+[High performance relayer - Dashboard by SmartStake](https://relayers.smartstake.io/relayer/BD90F7F27099E9E3)
+#### Testnet
+* Services(Snapshot,State-Sync,Endpoints,LivePeers): [https://services.blacknodes.net/Celestia](https://services.stakeandrelax.net/testnet/celestia)
+* Relaxed Testnet Explorer (Ping-Pub based): [https://testnet.explorer.stakeandrelax.net/celestia](https://testnet.explorer.stakeandrelax.net/celestia)
+#### Endpoints
+* RPC: [https://celestia-testnet-rpc.stakeandrelax.net](https://celestia-testnet-rpc.stakeandrelax.net)
+* gRPC: [http://celestia-testnet-grpc.stakeandrelax.net:11690](http://celestia-testnet-grpc.stakeandrelax.net:11690)
+* API: [https://celestia-testnet-api.stakeandrelax.net](https://celestia-testnet-api.stakeandrelax.net)
+* Archival-Node-RPC: [https://celestia-testnet-archive-rpc.stakeandrelax.net](https://celestia-testnet-archive-rpc.stakeandrelax.net)
+* Archival-Node-gRPC: [http://celestia-testnet-archive-grpc.stakeandrelax.net:11690](http://celestia-testnet-archive-grpc.stakeandrelax.net:11690)
+* Archival-Node-API: [https://celestia-testnet-archive-api.stakeandrelax.net](https://celestia-testnet-archive-api.stakeandrelax.net)
+
+---
+
 ### STAKEME
 #### Mainnet
 #### Tools
