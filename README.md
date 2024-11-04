@@ -363,7 +363,7 @@ Examples:
 
 ### Stake&Relax 🦥 Contribution
 #### Mainnet
-* Services(Snapshot,State-Sync,Endpoints,LivePeers): [https://services.blacknodes.net/Celestia](https://services.stakeandrelax.net/mainnet/celestia)
+* Services(Snapshot,State-Sync,Endpoints,LivePeers): [https://services.stakeandrelax.net/mainnet/celestia](https://services.stakeandrelax.net/mainnet/celestia)
 * Relaxed Explorer (Ping-Pub based): [https://explorer.stakeandrelax.net/celestia](https://explorer.stakeandrelax.net/celestia)
 #### Endpoints
 * RPC: [https://celestia-rpc.stakeandrelax.net](https://celestia-rpc.stakeandrelax.net)
@@ -372,7 +372,7 @@ Examples:
 #### Relayer
 [High performance relayer - Dashboard by SmartStake](https://relayers.smartstake.io/relayer/BD90F7F27099E9E3)
 #### Testnet
-* Services(Snapshot,State-Sync,Endpoints,LivePeers): [https://services.blacknodes.net/Celestia](https://services.stakeandrelax.net/testnet/celestia)
+* Services(Snapshot,State-Sync,Endpoints,LivePeers): [https://services.stakeandrelax.net/testnet/celestia](https://services.stakeandrelax.net/testnet/celestia)
 * Relaxed Testnet Explorer (Ping-Pub based): [https://testnet.explorer.stakeandrelax.net/celestia](https://testnet.explorer.stakeandrelax.net/celestia)
 #### Endpoints
 * RPC: [https://celestia-testnet-rpc.stakeandrelax.net](https://celestia-testnet-rpc.stakeandrelax.net)
